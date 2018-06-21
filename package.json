@@ -2,7 +2,12 @@
   "name": "qiksit-snippets",
   "displayName": "Qiksit-Snippets",
   "description": "Python snippets for IBM's quantum programming kit - Qiskit",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "icon": "assets/qiskit.gif",
+  "galleryBanner": {
+    "color": "#1b2024",
+    "theme": "dark"
+  },
   "publisher": "AkashGutha",
   "engines": {
     "vscode": "^1.24.0"
