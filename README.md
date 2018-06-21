@@ -5,12 +5,13 @@ Qiskit is IBM's qunautm computing platform to write ptyhon code to program Quant
 ## Features
 
 Snippets available
-| trigger   | description   |
-|-----------|---------------|
-| qbase | skeleton code for a Quantum circuit |
-| qbasic-imports | Basic imports for Qiskit |
-| qviz-imports | Basic imports for Qiskit visualization tools |
-| qviz-histplot | Histogram plot snippet |
+
+| trigger         | description   |
+| --------------- | ----------------------------------- |
+| qbase           | skeleton code for a Quantum circuit |
+| qbasic-imports  | Basic imports for Qiskit |
+| qviz-imports    | Basic imports for Qiskit visualization tools |
+| qviz-histplot   | Histogram plot snippet |
 
 ## Extension Settings
 
