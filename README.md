@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; background-color: #1b2024;">
-    <img src="assets/qiskit.gif" alt="">
+    <img src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" alt="">
 </div>
 
 # Qiskit Snippets
