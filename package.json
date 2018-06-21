@@ -1,25 +1,25 @@
 {
-    "name": "qiksit-snippets",
-    "displayName": "Qiksit-Snippets",
-    "description": "Python snippets for IBM's quantum programming kit - Qiskit",
-    "version": "0.0.1",
-    "publisher": "AkashGutha",
-    "engines": {
-        "vscode": "^1.24.0"
-    },
-    "repository": {
-        "url": "https://github.com/AkashGutha/Qiskit-Snippets.git",
-        "type": "git"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "python",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    }
+  "name": "qiksit-snippets",
+  "displayName": "Qiksit-Snippets",
+  "description": "Python snippets for IBM's quantum programming kit - Qiskit",
+  "version": "0.0.2",
+  "publisher": "AkashGutha",
+  "engines": {
+    "vscode": "^1.24.0"
+  },
+  "repository": {
+    "url": "https://github.com/AkashGutha/Qiskit-Snippets.git",
+    "type": "git"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
 }
