@@ -1,4 +1,6 @@
-![](assets/qiskit.gif)
+<div style="display: flex; justify-content: center; background-color: #1b2024;">
+    <img src="assets/qiskit.gif" alt="">
+</div>
 
 # Qisit Snippets
 
