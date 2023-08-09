@@ -4,7 +4,7 @@
 
 # Qiskit Snippets
 
-Qiskit is IBM's qunautm computing platform to write ptyhon code to program Quantum computers. These snippets will make it easier to get started with and program quantum computers with speed.
+Qiskit is IBM's qunautm computing platform to write python code to program Quantum computers. These snippets will make it easier to get started with and program quantum computers with speed.
 
 ## Features
 
